@@ -1,5 +1,15 @@
 # Hello 👋
 
+### Hello! I am a Systems Analysis and Development student at FACENS, and my passion for technology drives me to constantly seek knowledge and experiences that contribute to my professional development.
+
+## **Languages ​​and Technologies** 👨🏻‍💻
+![JAVASCRIPT] (https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+
+
+## **Connect with me**
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-nogueira-870b6b21a/)[![Blog](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=purple)](https://www.instagram.com/_giovanninog/)
 <!--
 **giovanninog/giovanninog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
