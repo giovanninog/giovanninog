@@ -12,6 +12,9 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-nogueira-870b6b21a/) [![Blog](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=purple)](https://www.instagram.com/_giovanninog/)
 
 
+
+![Exemplo de GIF](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif)
+
 <!--
 **giovanninog/giovanninog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
