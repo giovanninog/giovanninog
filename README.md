@@ -6,16 +6,32 @@
 ![JAVA](https://img.shields.io/badge/JAVA-eb8007?style=for-the-badge&logo=Java&logoColor=red) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-f05000?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0378ff?logo=css3&logoColor=white&style=for-the-badge)
 
 
-
 ## **Connect with me** 📱
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-nogueira-870b6b21a/) [![Blog](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=purple)](https://www.instagram.com/_giovanninog/)
 
+![GIF](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif)
+
+<br>
 
 
-![Exemplo de GIF](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif)
 
 <!--
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovanninog&layout=compact&bg_color=000&border_color=952fde&title_color=952fde&text_color=FFF">
+</p>
+
+
+
+<p align="center">
+<img src= "https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)">
+</p>
+
+
+
+
+
 **giovanninog/giovanninog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
