@@ -1,6 +1,6 @@
 # Hello 👋
 
-### Hello! My name is Giovanni Nogueira. I am a Systems Analysis and Development student at FACENS, and I am currently working as a Production Assistant at Flex. I am passionate about technology, and this passion drives me to constantly seek knowledge and experiences that contribute to my development. 
+### Hello! My name is Giovanni Nogueira. I am a Software Engineering student and have a degree in Systems Analysis and Development from FACENS.
 
 ## **Languages ​​and Technologies** 👨🏻‍💻
 ![JAVA](https://img.shields.io/badge/JAVA-eb8007?style=for-the-badge&logo=Java&logoColor=red) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-f05000?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0378ff?logo=css3&logoColor=white&style=for-the-badge)
