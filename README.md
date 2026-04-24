@@ -3,7 +3,8 @@
 ### Hello! My name is Giovanni Nogueira. I am a Software Engineering student and have a degree in Systems Analysis and Development from FACENS.
 
 ## **Languages ​​and Technologies** 👨🏻‍💻
-![JAVA](https://img.shields.io/badge/JAVA-eb8007?style=for-the-badge&logo=Java&logoColor=red) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-f05000?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0378ff?logo=css3&logoColor=white&style=for-the-badge)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-f05000?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0378ff?logo=css3&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![CSS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## **Connect with me** 📱
